@@ -1,0 +1,15 @@
+{
+  "name": "escortdbcl",
+  "version": "1.0.0",
+  "description": "escorts data base chile",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apistorechile/escortdbcl.git"
+  },
+  "author": "apistockchile",
+  "license": "ISC"
+}
